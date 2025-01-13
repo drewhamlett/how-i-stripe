@@ -1,1 +1,1 @@
-# Literaly just read the Stripe docs
+# Literally just read the Stripe docs
